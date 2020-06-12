@@ -23,3 +23,6 @@ IMG
 driving_log.csv
 Archive.zip
 sdc.app
+
+# custom
+bin/
